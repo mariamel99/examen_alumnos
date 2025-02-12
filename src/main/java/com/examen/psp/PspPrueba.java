@@ -1,10 +1,8 @@
 package com.examen.psp;
 
 import com.examen.psp.entidades.Alumno;
-import com.examen.psp.repositorios.AlumnoRepository;
+
 import com.examen.psp.repositorios.AlumnoRepositoryImpl;
-import com.examen.psp.servicios.AlumnoServiceImpl;
-import com.examen.psp.servicios.CryptoService;
 import com.examen.psp.servicios.CryptoServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
